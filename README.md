@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Lesson_1
+Компоненти та пропси
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project location
+https://github.com/Bashik97/react_ts_2024
+
 
 ## Available Scripts
 
@@ -13,12 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Dont forget to remove .idea files from git track
 git rm .idea/ -r --cached
